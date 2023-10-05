@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import React from 'react';
 
 const Testimonial = () => {
@@ -21,7 +20,7 @@ const Testimonial = () => {
             </p>
           </blockquote>
           <figcaption className="flex items-center justify-center space-x-3">
-            <Image
+            <img
               className="rounded-full w-9 h-9"
               src="/images/t1.png"
               alt="profile picture"
@@ -47,7 +46,7 @@ const Testimonial = () => {
             </p>
           </blockquote>
           <figcaption className="flex items-center justify-center space-x-3">
-            <Image
+            <img
               className="rounded-full w-9 h-9"
               src="/images/t2.png"
               alt="profile picture"
@@ -73,7 +72,7 @@ const Testimonial = () => {
             </p>
           </blockquote>
           <figcaption className="flex items-center justify-center space-x-3">
-            <Image
+            <img
               className="rounded-full w-9 h-9"
               src="/images/t3.png"
               alt="profile picture"
@@ -99,7 +98,7 @@ const Testimonial = () => {
             </p>
           </blockquote>
           <figcaption className="flex items-center justify-center space-x-3">
-            <Image
+            <img
               className="rounded-full w-9 h-9"
               src="/images/t4.png"
               alt="profile picture"
