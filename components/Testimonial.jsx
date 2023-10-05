@@ -23,7 +23,7 @@ const Testimonial = () => {
           <figcaption className="flex items-center justify-center space-x-3">
             <Image
               className="rounded-full w-9 h-9"
-              src="/t1.png"
+              src="/images/t1.png"
               alt="profile picture"
               width={40}
               height={40}
@@ -49,7 +49,7 @@ const Testimonial = () => {
           <figcaption className="flex items-center justify-center space-x-3">
             <Image
               className="rounded-full w-9 h-9"
-              src="/t2.png"
+              src="/images/t2.png"
               alt="profile picture"
               width={40}
               height={40}
@@ -75,7 +75,7 @@ const Testimonial = () => {
           <figcaption className="flex items-center justify-center space-x-3">
             <Image
               className="rounded-full w-9 h-9"
-              src="/t3.png"
+              src="/images/t3.png"
               alt="profile picture"
               width={40}
               height={40}
@@ -101,7 +101,7 @@ const Testimonial = () => {
           <figcaption className="flex items-center justify-center space-x-3">
             <Image
               className="rounded-full w-9 h-9"
-              src="/t4.png"
+              src="/images/t4.png"
               alt="profile picture"
               width={40}
               height={40}

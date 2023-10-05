@@ -11,7 +11,7 @@ const Biography = () => {
         <div className="flex flex-col md:flex-row gap-5">
           <div className="md:w-1/2">
             <Image
-              src="/n1.webp"
+              src="/images/n1.webp"
               alt="biography"
               width={500}
               height={500}
@@ -34,7 +34,7 @@ const Biography = () => {
         <div className="flex flex-col md:flex-row gap-5">
           <div className="md:w-1/2">
             <Image
-              src="/n2.webp"
+              src="/images/n2.webp"
               alt="biography"
               width={500}
               height={500}
@@ -57,7 +57,7 @@ const Biography = () => {
         <div className="flex flex-col md:flex-row gap-5">
           <div className="md:w-1/2">
             <Image
-              src="/n3.webp"
+              src="/images/n3.webp"
               alt="biography"
               width={500}
               height={500}
